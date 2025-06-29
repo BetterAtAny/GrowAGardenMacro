@@ -339,6 +339,4 @@ F7::{
     ExitApp
 }
 
-ActivateRobloxWindow()
-Alignment()
-TomatoCollection()
+MainLoop() 
