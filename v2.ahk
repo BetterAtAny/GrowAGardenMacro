@@ -304,7 +304,7 @@ JoinGame() {
             WinMaximize("Roblox") ; Maximize Roblox
             break
         } else {
-            if (CheckCount > 10) {
+            if (CheckCount < 10) {
                 Sleep(1500) 
             } else {
                 CheckCount := 0 
